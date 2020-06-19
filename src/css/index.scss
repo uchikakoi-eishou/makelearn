@@ -1,0 +1,41 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+}
+
+header, main {
+    width: 640px;
+    margin: 0 auto;
+}
+
+header {
+    h1 {
+        margin: 0;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        text-align: center;
+        border-bottom: black 1px solid;
+    }
+}
+
+main {
+    label {
+        display: block;
+    }
+    .inputInput {
+        width: 100%;
+    }
+    .row {
+        margin-top: 32px;
+    }
+    .labelPrivacy {
+        display: inline;
+    }
+    .center {
+        // margin: 0 auto;
+        text-align: center;
+    }
+    // .btn {
+        // display: block;
+    // }
+}
