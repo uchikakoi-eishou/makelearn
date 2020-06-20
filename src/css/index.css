@@ -1,38 +1,7 @@
 body {
-  background-color: darkgray;
-  margin: 0;
+  background-color: #ddd;
 }
 
-header, main {
+.container {
   width: 640px;
-  margin: 0 auto;
 }
-
-header h1 {
-  margin: 0;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  text-align: center;
-  border-bottom: black 1px solid;
-}
-
-main label {
-  display: block;
-}
-
-main .inputInput {
-  width: 100%;
-}
-
-main .row {
-  margin-top: 32px;
-}
-
-main .labelPrivacy {
-  display: inline;
-}
-
-main .center {
-  text-align: center;
-}
-/*# sourceMappingURL=index.css.map */
